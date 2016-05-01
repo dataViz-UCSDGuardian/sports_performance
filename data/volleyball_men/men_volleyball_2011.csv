@@ -1,30 +1,30 @@
-Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Thu, Aug 25",Point Loma Nazarene (exhibition),24,-,San Diego,,0,3,1
-"Thu, Sep 01",Hawaii Pacific,24,-,"Honolulu, Hawaii",1.0,0,3,1
-"Fri, Sep 02",Seattle Pacific,24,13,"Honolulu, Hawaii",1.0,0,3,0
-"Sat, Sep 03",Northwest Nazarene,24,-,"Honolulu, Hawai'i",1.0,0,3,1
-"Sat, Sep 03",Chaminade,24,-,"Honolulu, Hawai'i",1.0,0,3,0
-"Fri, Sep 09",Cal Poly Pomona *,15,-,UC San Diego,1.0,1,3,0
-"Sun, Sep 11",San Francisco State *,15,-,UC San Diego,1.0,1,3,0
-"Fri, Sep 16",Cal State Dominguez Hills *,12,-,Carson,1.0,1,3,0
-"Sat, Sep 17",Cal State L.A. *,12,-,Los Angeles,1.0,1,3,1
-"Fri, Sep 23",Cal State Stanislaus *,T-10,-,UC San Diego,1.0,1,3,0
-"Sat, Sep 24",Chico State *,T-10,-,UC San Diego,0.0,1,2,3
-"Fri, Sep 30",Humboldt State *,12,-,Arcata,1.0,1,3,0
-"Sat, Oct 01",Sonoma State *,12,-,Rohnert Park,0.0,1,1,3
-"Wed, Oct 05",Cal State San Bernardino *,16,3,UC San Diego,0.0,1,1,3
-"Fri, Oct 07",Cal State Monterey Bay *,16,-,Seaside,0.0,1,1,3
-"Sat, Oct 08",Cal State East Bay *,16,-,Hayward,1.0,1,3,2
-"Fri, Oct 14",San Francisco State *,18,-,San Francisco,1.0,1,3,2
-"Sat, Oct 15",Cal Poly Pomona *,18,-,Pomona,1.0,1,3,1
-"Fri, Oct 21",Cal State L.A. *,18,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 22",Cal State Dominguez Hills *,18,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 28",Chico State *,18,RV,Chico,1.0,1,3,1
-"Sat, Oct 29",Cal State Stanislaus *,18,-,Turlock,1.0,1,3,2
-"Fri, Nov 04",Sonoma State *,17,23,UC San Diego,1.0,1,3,0
-"Sat, Nov 05",Humboldt State *,17,-,UC San Diego,1.0,1,3,0
-"Wed, Nov 09",Cal State San Bernardino *,15,1,San Bernardino,0.0,1,0,3
-"Fri, Nov 11",Cal State East Bay *,15,-,UC San Diego,1.0,1,3,1
-"Sat, Nov 12",Cal State Monterey Bay *,15,-,UC San Diego,1.0,1,3,0
-"Thu, Nov 17",Grand Canyon,15,-,San Bernardino,1.0,0,3,0
-"Fri, Nov 18",Sonoma State,15,23,San Bernardino,0.0,0,1,3
+Date,Opponent,UCSD Rank,Opp Rank,Location,Results,Won,Conference
+"Mon, Jan 02",Brandon (exhibition),-,-,UC San Diego,3 - 1 STATS,,0
+"Thu, Jan 05",Hawaii *,RV,11,"Honolulu, Hawai'i",0 - 3 (L) STATS,0.0,1
+"Fri, Jan 06",Hawaii *,RV,11,"Honolulu, Hawai'i",3 - 0 (W) STATS,1.0,1
+"Wed, Jan 11",Loyola-Chicago,RV,14,UC San Diego,0 - 3 (L) STATS,0.0,0
+"Sat, Jan 14",New Jersey Institute of Technology,RV,-,"Phoenix, Ariz.",3 - 2 (W) STATS,1.0,0
+"Sun, Jan 15",Grand Canyon,RV,-,"Phoenix, Ariz.",0 - 3 (L) STATS,0.0,0
+"Sat, Jan 21",UC Irvine *,RV,2,Irvine,0 - 3 (L) STATS,0.0,1
+"Fri, Jan 27",Pepperdine *,RV,6,UC San Diego,2 - 3 (L) STATS,0.0,1
+"Sat, Jan 28",USC *,RV,5,UC San Diego,0 - 3 (L) STATS,0.0,1
+"Wed, Feb 01",Princeton,RV,-,UC San Diego,2 - 3 (L) STATS,0.0,0
+"Fri, Feb 03",Hope International,RV,-,Fullerton,3 - 2 (W) STATS,1.0,0
+"Thu, Feb 09",BYU *,-,3,UC San Diego,0 - 3 (L) STATS,0.0,1
+"Sat, Feb 11",BYU *,-,3,UC San Diego,2 - 3 (L) STATS,0.0,1
+"Fri, Feb 17",Pacific *,RV,12,UC San Diego,0 - 3 (L) STATS,0.0,1
+"Sat, Feb 18",Stanford *,RV,4,UC San Diego,1 - 3 (L) STATS,0.0,1
+"Fri, Feb 24",Cal State Northridge *,RV,15,UC San Diego,0 - 3 (L) STATS,0.0,1
+"Sat, Feb 25",Long Beach State *,RV,9,UC San Diego,1 - 3 (L) STATS,0.0,1
+"Fri, Mar 02",Stanford *,RV,2,Stanford,1 - 3 (L) STATS,0.0,1
+"Sat, Mar 03",Pacific *,RV,12,Stockton,0 - 3 (L) STATS,0.0,1
+"Thu, Mar 08",UCLA *,RV,1,Los Angeles,0 - 3 (L) STATS,0.0,1
+"Fri, Mar 09",UC Santa Barbara *,RV,T-12,Santa Barbara,3 - 1 (W) STATS,1.0,1
+"Thu, Mar 15",Long Beach State *,15,9,Long Beach,3 - 2 (W) STATS,1.0,1
+"Fri, Mar 16",Cal State Northridge *,15,13,Northridge,3 - 1 (W) STATS,1.0,1
+"Fri, Mar 30",UCLA *,13,3,UC San Diego,3 - 1 (W) STATS,1.0,1
+"Sat, Mar 31",UC Santa Barbara *,13,15,UC San Diego,3 - 0 (W) STATS,1.0,1
+"Thu, Apr 05",USC *,11,1,Los Angeles,0 - 3 (L) STATS,0.0,1
+"Sat, Apr 07",Pepperdine *,11,6,Malibu,0 - 3 (L) STATS,0.0,1
+"Thu, Apr 12",Cal Baptist,12,-,UC San Diego,3 - 2 (W) STATS,1.0,0
+"Sat, Apr 14",UC Irvine *,12,2,UC San Diego,0 - 3 (L) STATS,0.0,1

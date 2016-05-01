@@ -1,34 +1,31 @@
-Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Wed, Aug 26",Cal Baptist (Ex.),13,-,UC San Diego,1.0,0,4,1
-"Fri, Aug 28",Winona State,13,-,"Marquette, MI",1.0,0,3,1
-"Fri, Aug 28",St. Cloud State,13,-,"Marquette, MI",1.0,0,3,0
-"Sat, Aug 29",Duluth,13,7,"Marquette, MI",1.0,0,3,2
-"Sat, Aug 29",Michigan Tech,13,-,"Marquette, MI",1.0,0,3,0
-"Fri, Sep 04",Saginaw Valley State,7,-,UC San Diego,1.0,0,3,0
-"Fri, Sep 04",Northern Michigan,7,-,UC San Diego,1.0,0,3,1
-"Sat, Sep 05",Mesa State,7,-,UC San Diego,1.0,0,3,1
-"Sat, Sep 05",Alaska-Anchorage,7,-,UC San Diego,1.0,0,3,0
-"Wed, Sep 09",Cal State East Bay *,4,-,Hayward,1.0,1,3,0
-"Fri, Sep 11",Cal State San Bernardino *,4,2,San Bernardino,0.0,1,1,3
-"Sat, Sep 12",Cal Poly Pomona *,4,-,Pomona,1.0,1,3,0
-"Fri, Sep 18",Cal State L.A. *,4,-,Los Angeles,1.0,1,3,2
-"Sat, Sep 19",Cal State Dominguez Hills *,4,-,UC San Diego,1.0,1,3,0
-"Fri, Sep 25",Chico State *,4,23,UC San Diego,1.0,1,3,1
-"Sat, Sep 26",Cal State Stanislaus *,4,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 02",Cal State Monterey Bay *,3,-,UC San Diego,1.0,1,3,1
-"Sat, Oct 03",San Francisco State *,3,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 09",Humboldt State *,3,-,Arcata,1.0,1,3,0
-"Sat, Oct 10",Sonoma State *,3,17,Sonoma,1.0,1,3,2
-"Fri, Oct 16",Cal Poly Pomona *,3,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 17",Cal State San Bernardino *,3,2,UC San Diego,1.0,1,3,1
-"Thu, Oct 22",Cal State Dominguez Hills *,2,-,Carson,1.0,1,3,0
-"Fri, Oct 23",Cal State L.A. *,2,22,UC San Diego,1.0,1,3,1
-"Fri, Oct 30",Cal State Stanislaus *,2,-,Turlock,1.0,1,3,0
-"Sat, Oct 31",Chico State *,2,25,Chico,1.0,1,3,0
-"Wed, Nov 04",Cal State East Bay *,2,-,UC San Diego,1.0,1,3,0
-"Fri, Nov 06",San Francisco State *,2,-,San Francisco,0.0,1,1,3
-"Sat, Nov 07",Cal State Monterey Bay *,2,-,Monterey,1.0,1,3,0
-"Fri, Nov 13",Sonoma State *,4,18,UC San Diego,1.0,1,3,0
-"Sat, Nov 14",Humboldt State *,4,-,UC San Diego,1.0,1,3,0
-"Thu, Nov 19",San Francisco State,3,-,San Bernardino,1.0,0,3,0
-"Fri, Nov 20",Cal State L.A.,3,19,San Bernardino,0.0,0,0,3
+Date,Opponent,UCSD Rank,Opp Rank,Location,Results,Won,Conference
+"Thu, Jan 07",UCLA,13,8,Santa Barbara,2 - 3 (L),0.0,0
+"Thu, Jan 07",UC Irvine,13,2,Santa Barbara,1 - 3 (L),0.0,0
+"Fri, Jan 08",UC Santa Barbara,13,14,Santa Barbara,3 - 2 (W) STATS,1.0,0
+"Wed, Jan 13",Cal State Northridge *,11,2,Northridge,0 - 3 (L) STATS,0.0,1
+"Sat, Jan 16",UC Santa Barbara *,11,14,Santa Barbara,2 - 3 (L) STATS,0.0,1
+"Wed, Jan 20",Pepperdine *,12,7,Malibu,3 - 1 (W) STATS,1.0,1
+"Fri, Jan 22",USC *,12,1,Los Angeles,0 - 3 (L) STATS,0.0,1
+"Wed, Jan 27",Princeton,12,-,UC San Diego,3 - 0 (W) STATS,1.0,0
+"Fri, Jan 29",Long Beach State *,12,8,Long Beach,0 - 3 (L) STATS,0.0,1
+"Fri, Feb 05",Long Beach State *,13,6,UC San Diego,1 - 3 (L) STATS,0.0,1
+"Sat, Feb 06",Hope International,13,-,Fullerton,3 - 0 (W) STATS,1.0,0
+"Fri, Feb 12",Cal State Northridge *,13,1,UC San Diego,0 - 3 (L) STATS,0.0,1
+"Sat, Feb 13",UC Santa Barbara *,13,10,UC San Diego,2 - 3 (L) STATS,0.0,1
+"Fri, Feb 19",BYU *,14,5,UC San Diego,1 - 3 (L) STATS,0.0,1
+"Sat, Feb 20",BYU *,14,5,UC San Diego,0 - 3 (L) STATS,0.0,1
+"Wed, Feb 24",UCLA *,14,3,Los Angeles,3 - 0 (W) STATS,1.0,1
+"Fri, Feb 26",UC Irvine *,14,11,Irvine,1 - 3 (L) STATS,0.0,1
+"Fri, Mar 05",Stanford *,14,2,Palo Alto,1 - 3 (L) STATS,0.0,1
+"Sat, Mar 06",Pacific *,14,-,Stockton,3 - 1 (W) STATS,1.0,1
+"Fri, Mar 12",Lewis,13,15,"Romeoville, IL",3 - 0 (W) STATS,1.0,0
+"Sat, Mar 13",Lewis,13,15,"Romeoville, IL",2 - 3 (L) STATS,0.0,0
+"Fri, Mar 26",Stanford *,14,1,UC San Diego,0 - 3 (L) STATS,0.0,1
+"Sat, Mar 27",Pacific *,14,-,UC San Diego,3 - 0 (W) STATS,1.0,1
+"Fri, Apr 02",Hawaii *,14,4,"Honolulu, HI",1 - 3 (L) STATS,0.0,1
+"Sat, Apr 03",Hawaii *,14,4,"Honolulu, HI",0 - 3 (L) STATS,0.0,1
+"Fri, Apr 09",UC Irvine *,14,10,UC San Diego,0 - 3 (L) STATS,0.0,1
+"Sat, Apr 10",UCLA *,14,7,UC San Diego,3 - 1 (W) STATS,1.0,1
+"Wed, Apr 14",Cal Baptist,14,-,UC San Diego,3 - 1 (W) STATS,1.0,0
+"Fri, Apr 16",USC *,14,6,UC San Diego,2 - 3 (L) STATS,0.0,1
+"Sat, Apr 17",Pepperdine *,14,3,UC San Diego,3 - 2 (W) STATS,1.0,1

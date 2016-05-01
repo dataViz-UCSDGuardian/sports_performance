@@ -1,27 +1,32 @@
 Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Thu, Sep 04",Hawaii Pacific,11,-,"Ellensburg, WA",1.0,0,3,2
-"Thu, Sep 04",Central Washington,11,RV,"Ellensburg, WA",0.0,0,1,3
-"Fri, Sep 05",Saint Martin's,11,-,"Ellensburg, WA",1.0,0,3,0
-"Fri, Sep 05",Western Washington,11,12,"Ellensburg, WA",0.0,0,1,3
-"Fri, Sep 12",Cal State Stanislaus *,14,-,UC San Diego,1.0,1,3,1
-"Sat, Sep 13",Chico State *,14,-,UC San Diego,1.0,1,3,1
-"Wed, Sep 17",Cal Poly Pomona *,13,-,UC San Diego,1.0,1,3,2
-"Fri, Sep 19",Cal State L.A. *,13,RV,UC San Diego,0.0,1,1,3
-"Sat, Sep 20",Cal State Dominguez Hills *,13,-,UC San Diego,1.0,1,3,1
-"Fri, Sep 26",Sonoma State *,19,RV,Rohnert Park,0.0,1,1,3
-"Sat, Sep 27",San Francisco State *,19,-,San Francisco,1.0,1,3,1
-"Thu, Oct 02",Humboldt State *,RV,-,Arcata,1.0,1,3,2
-"Sat, Oct 04",Cal State San Bernardino *,RV,8,San Bernardino,0.0,1,2,3
-"Fri, Oct 10",Cal State Monterey Bay (Reis Cup) *,RV,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 11",Cal State East Bay *,RV,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 17",Chico State *,RV,-,Chico,0.0,1,1,3
-"Sat, Oct 18",Cal State Stanislaus *,RV,-,Turlock,1.0,1,3,0
-"Fri, Oct 24",Cal State Dominguez Hills *,RV,-,Carson,1.0,1,3,0
-"Sat, Oct 25",Cal State L.A. *,RV,-,Los Angeles,0.0,1,1,3
-"Fri, Oct 31",San Francisco State *,RV,-,UC San Diego,0.0,1,2,3
-"Sat, Nov 01",Sonoma State *,RV,RV,UC San Diego,0.0,1,0,3
-"Wed, Nov 05",Cal Poly Pomona *,-,-,Pomona,0.0,1,1,3
-"Fri, Nov 07",Cal State San Bernardino *,-,18,UC San Diego,0.0,1,1,3
-"Sat, Nov 08",Humboldt State *,-,-,UC San Diego,1.0,1,3,1
-"Fri, Nov 14",Cal State East Bay *,-,-,Hayward,0.0,1,1,3
-"Sat, Nov 15",Cal State Monterey Bay *,-,-,Seaside,1.0,1,3,0
+"Sat, Nov 08",Stanford (exhibition),RV,6,Stanford,,0,51,74
+"Sat, Nov 15",University of Mary,RV,-,San Bernardino,1.0,0,89,84
+"Fri, Nov 21",Seattle Pacific,RV,-,"Bellingham, WA",0.0,0,66,71
+"Sat, Nov 22",Western Washington,RV,21,"Bellingham, WA",0.0,0,77,80
+"Fri, Nov 28",Cal State San Bernardino vs. Azusa Pacific,-,-,UC San Diego,,0,61,60
+"Fri, Nov 28",Academy of Art,-,RV,UC San Diego,0.0,0,74,84
+"Sat, Nov 29",Cal State San Bernardino vs. Academy of Art,-,-,UC San Diego,,0,83,74
+"Sat, Nov 29",Azusa Pacific,-,RV,UC San Diego,1.0,0,62,49
+"Fri, Dec 05",Cal State Monterey Bay *,-,-,Seaside,1.0,1,68,57
+"Sat, Dec 06",Cal State East Bay *,-,RV,Hayward,0.0,1,57,74
+"Fri, Dec 12",Cal Poly Pomona *,-,25,Pomona,0.0,1,71,82
+"Sun, Dec 21",Cal Poly Pomona *,-,RV,UC San Diego,1.0,1,62,50
+"Fri, Jan 02",Cal State Stanislaus *,-,-,UC San Diego,1.0,1,81,68
+"Sat, Jan 03",Chico State *,-,-,UC San Diego,1.0,1,86,57
+"Fri, Jan 09",Sonoma State *,-,-,UC San Diego,1.0,1,69,59
+"Sat, Jan 10",San Francisco State *,-,-,UC San Diego,1.0,1,94,61
+"Fri, Jan 16",Cal State L.A. *,RV,-,Los Angeles,0.0,1,63,65
+"Sat, Jan 17",Cal State Dominguez Hills *,RV,RV,Carson,1.0,1,60,55
+"Fri, Jan 23",Cal State San Bernardino *,RV,RV,UC San Diego,0.0,1,56,64
+"Sat, Jan 24",Humboldt State *,RV,25,UC San Diego,0.0,1,64,67
+"Fri, Jan 30",Cal State East Bay *,-,-,UC San Diego,1.0,1,64,60
+"Sat, Jan 31",Cal State Monterey Bay *,-,-,UC San Diego,1.0,1,73,56
+"Fri, Feb 06",Chico State *,-,-,Chico,0.0,1,70,76
+"Sat, Feb 07",Cal State Stanislaus *,-,-,Turlock,1.0,1,72,53
+"Fri, Feb 13",San Francisco State *,-,-,San Francisco,1.0,1,76,65
+"Sat, Feb 14",Sonoma State *,-,-,Rohnert Park,1.0,1,79,55
+"Fri, Feb 20",Cal State Dominguez Hills *,-,RV,UC San Diego,1.0,1,68,60
+"Sat, Feb 21",Cal State L.A. *,-,-,UC San Diego,1.0,1,69,57
+"Thu, Feb 26",Humboldt State *,-,15,Arcata,1.0,1,78,63
+"Sat, Feb 28",Cal State San Bernardino *,-,RV,San Bernardino,1.0,1,64,61
+"Thu, Mar 05",Cal State San Bernardino (first round),-,-,Stockton,0.0,0,58,69

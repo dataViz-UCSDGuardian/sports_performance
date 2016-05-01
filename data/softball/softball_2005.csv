@@ -1,28 +1,55 @@
-Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Thu, Aug 25",Point Loma,13,-,Carson,1.0,0,3,2
-"Thu, Aug 25",Bridgeport,13,-,Carson,1.0,0,3,0
-"Fri, Aug 26",Concordia (N.Y.),13,-,Carson,1.0,0,3,0
-"Tue, Aug 30",Point Loma,13,-,UC San Diego,1.0,0,3,2
-"Fri, Sep 02",St. Martins,13,-,San Bernardino,1.0,0,3,0
-"Fri, Sep 02",Hawaii Pacific,13,8,San Bernardino,0.0,0,0,3
-"Sat, Sep 03",Northwood,13,16,San Bernardino,1.0,0,3,0
-"Sat, Sep 03",Northwest Nazarene,13,-,San Bernardino,1.0,0,3,0
-"Thu, Sep 08",Grand Canyon,10,-,UC San Diego,1.0,0,3,1
-"Sat, Sep 10",Cal State San Bernardino*,10,2,San Bernardino,0.0,1,1,3
-"Fri, Sep 16",Cal State Monterey Bay*,12,-,UC San Diego,1.0,1,3,0
-"Sat, Sep 17",Sonoma State*,12,-,UC San Diego,1.0,1,3,0
-"Fri, Sep 23",Chico State*,11,-,Chico,1.0,1,3,1
-"Sat, Sep 24",Cal State Stanislaus*,11,-,Turlock,1.0,1,3,1
-"Fri, Sep 30",Cal State Dominguez Hills*,10,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 01",Cal Poly Pomona*,10,18,UC San Diego,0.0,1,1,3
-"Thu, Oct 06",Cal State L.A.*,13,16,Los Angeles,0.0,1,1,3
-"Fri, Oct 07",Cal State Bakersfield*,13,-,Bakersfield,1.0,1,3,2
-"Sat, Oct 15",Cal State San Bernardino*,16,11,UC San Diego,1.0,1,3,2
-"Fri, Oct 21",Sonoma State*,14,-,Sonoma,0.0,1,2,3
-"Sat, Oct 22",Cal State Monterey Bay*,14,-,Monterey,1.0,1,3,0
-"Fri, Oct 28",Cal State Stanislaus*,17,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 29",Chico State*,17,-,UC San Diego,1.0,1,3,1
-"Wed, Nov 02",Cal State Bakersfield*,17,22,UC San Diego,0.0,1,1,3
-"Fri, Nov 04",Cal State L.A.*,17,9,UC San Diego,0.0,1,2,3
-"Fri, Nov 11",Cal Poly Pomona*,18,9,Pomona,0.0,1,0,3
-"Sat, Nov 12",Cal State Dominguez Hills*,18,-,Carson,1.0,1,3,0
+Date,Opponent,Opp Rank,Location,Results,Won,Conference
+"Fri, Feb 03",Central Washington,-,Turlock,6 - 1 (W) STATS,1.0,0
+"Fri, Feb 03",Humboldt State,1,Turlock,0 - 5 (L) STATS,0.0,0
+"Sat, Feb 04",Notre Dame de Namur,-,Turlock,6 - 0 (W) STATS,1.0,0
+"Sat, Feb 04",Grand Canyon,-,Turlock,4 - 3 (W) STATS,1.0,0
+"Sun, Feb 05",Seattle University,22,Turlock,7 - 3 (W) STATS,1.0,0
+"Sun, Feb 05",Cal State Stanislaus,-,Turlock,9 - 6 (W) STATS,1.0,0
+"Wed, Feb 08",Point Loma,-,UC San Diego,8 - 0 (W) STATS,1.0,0
+"Wed, Feb 08",Point Loma,-,UC San Diego,2 - 12 (L) STATS,0.0,0
+"Thu, Feb 16",Regis,-,"Phoenix, Ariz.",3 - 2 (W) STATS,1.0,0
+"Thu, Feb 16",Western New Mexico,-,"Phoenix, Ariz.",5 - 3 (W) STATS,1.0,0
+"Fri, Feb 17",Texas Woman's University,-,"Phoenix, Ariz.",4 - 1 (W) STATS,1.0,0
+"Fri, Feb 17",Emporia State,12,"Phoenix, Ariz.",0 - 3 (L) STATS,0.0,0
+"Sat, Feb 18",Cal State Dominguez Hills,-,"Phoenix, Ariz.",4 - 11 (L) STATS,0.0,0
+"Wed, Feb 22",Univ. of San Diego,-,UC San Diego,7 - 16 (L) STATS,0.0,0
+"Wed, Feb 22",Univ. of San Diego,-,UC San Diego,2 - 12 (L) STATS,0.0,0
+"Fri, Feb 24",San Francisco State*,9,UC San Diego,5 - 4 (W) STATS,1.0,1
+"Fri, Feb 24",San Francisco State*,9,UC San Diego,7 - 4 (W) STATS,1.0,1
+"Sat, Feb 25",Sonoma State*,-,UC San Diego,5 - 4 (W) STATS,1.0,1
+"Sat, Feb 25",Sonoma State*,-,UC San Diego,13 - 7 (W) STATS,1.0,1
+"Fri, Mar 03",Chico State*,-,Chico,PPD - Rain,,1
+"Fri, Mar 03",Chico State*,-,Chico,PPD - Rain,,1
+"Sat, Mar 04",Cal State Stanislaus*,-,Turlock,0 - 1 (L) STATS,0.0,1
+"Sat, Mar 04",Cal State Stanislaus*,-,Turlock,3 - 8 (L) STATS,0.0,1
+"Wed, Mar 08",Cal State San Bernardino*,-,UC San Diego,0 - 2 (L) STATS,0.0,1
+"Wed, Mar 08",Cal State San Bernardino*,-,UC San Diego,2 - 4 (L) STATS,0.0,1
+"Sun, Mar 12",Cal State Monterey Bay*,-,UC San Diego,5 - 3 (W) STATS,1.0,1
+"Sun, Mar 12",Cal State Monterey Bay*,-,UC San Diego,4 - 3 (W) STATS,1.0,1
+"Wed, Mar 15",Cal Baptist,-,Riverside,3 - 11 (L) STATS,0.0,0
+"Wed, Mar 15",Cal Baptist,-,Riverside,4 - 12 (L) STATS,0.0,0
+"Sun, Mar 26",Cal State Bakersfield*,7,Bakersfield,4 - 5 (L) STATS,0.0,1
+"Sun, Mar 26",Cal State Bakersfield*,7,Bakersfield,1 - 11 (L) STATS,0.0,1
+"Mon, Mar 27",Cal State Dominguez Hills*,8,Carson,1 - 6 (L) STATS,0.0,1
+"Mon, Mar 27",Cal State Dominguez Hills*,8,Carson,1 - 3 (L) STATS,0.0,1
+"Fri, Mar 31",Hawaii Pacific,-,Turlock,5 - 1 (W) STATS,1.0,0
+"Fri, Mar 31",Humboldt State,3,Turlock,0 - 8 (L) STATS,0.0,0
+"Sat, Apr 01",Chaminade,-,Turlock,10 - 4 (W) STATS,1.0,0
+"Sat, Apr 01",Western Oregon,-,Turlock,3 - 2 (W) STATS,1.0,0
+"Sun, Apr 02",Western Washington,-,Turlock,1 - 8 (L) STATS,0.0,0
+"Fri, Apr 07",Cal State Monterey Bay*,-,Monterey,9 - 0 (W) STATS,1.0,1
+"Fri, Apr 07",Cal State Monterey Bay*,-,Monterey,7 - 2 (W) STATS,1.0,1
+"Sat, Apr 15",Cal State Dominguez Hills*,10,UC San Diego,0 - 4 (L) STATS,0.0,1
+"Sat, Apr 15",Cal State Dominguez Hills*,10,UC San Diego,1 - 7 (L) STATS,0.0,1
+"Fri, Apr 21",Cal State Stanislaus*,-,UC San Diego,1 - 9 (L) STATS,0.0,1
+"Fri, Apr 21",Cal State Stanislaus*,-,UC San Diego,3 - 7 (L) STATS,0.0,1
+"Sun, Apr 23",Cal State Bakersfield*,10,UC San Diego,1 - 7 (L) STATS,0.0,1
+"Sun, Apr 23",Cal State Bakersfield*,10,UC San Diego,1 - 5 (L) STATS,0.0,1
+"Wed, Apr 26",Cal State San Bernardino*,-,San Bernardino,0 - 4 (L) STATS,0.0,1
+"Wed, Apr 26",Cal State San Bernardino*,-,San Bernardino,12 - 8 (W) STATS,1.0,1
+"Fri, Apr 28",Grand Canyon,-,UC San Diego,3 - 2 (W) STATS,1.0,0
+"Fri, Apr 28",Grand Canyon,-,UC San Diego,5 - 1 (W) STATS,1.0,0
+"Fri, May 05",Sonoma State*,-,Rohnert Park,2 - 4 (L) STATS,0.0,1
+"Fri, May 05",Sonoma State*,-,Rohnert Park,10 - 8 (W) STATS,1.0,1
+"Sat, May 06",San Francisco State*,20,San Francisco,0 - 1 (L) STATS,0.0,1
+"Sat, May 06",San Francisco State*,20,San Francisco,2 - 3 (L) STATS,0.0,1

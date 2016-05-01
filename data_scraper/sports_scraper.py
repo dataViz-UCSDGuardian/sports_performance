@@ -6,8 +6,7 @@ import pandas as pd
 import os
 
 
-def scrape(sport_name, first_url):
-   first_url = "http://www.ucsdtritons.com/SportSelect.dbml?SPSID=31944&SPID=2334&DB_OEM_ID=5800&Q_SEASON=2005"
+def scrape(sport_name, first_url, split_results=True):
    page = urllib2.urlopen(first_url)
 
    soup = BeautifulSoup(page)
@@ -25,11 +24,14 @@ def scrape(sport_name, first_url):
 
    urls_to_scrape = []
 
+   page = None
+   soup = None
+
    for year in years:
-      page_scrape(sport_name, base_url, year)
+      page_scrape(sport_name, base_url, year, split_results)
 
 
-def page_scrape(sport_name, base_url, year):
+def page_scrape(sport_name, base_url, year, split_results=True):
    url = base_url + year
 
    print(url)
@@ -64,9 +66,6 @@ def page_scrape(sport_name, base_url, year):
    #we don't have any values in the Media column, let's get rid of it
    df = df.drop(['Media'],axis=1)
 
-   #let's get an overview of our dataframe
-   df
-
    #make a column to show whether the game was won (1) or lost (0)
    df.loc[ df.Results.str.contains("(W)") , 'Won'] = 1
    df.loc[ df.Results.str.contains("(L)") , 'Won'] = 0
@@ -75,23 +74,24 @@ def page_scrape(sport_name, base_url, year):
    df['Conference'] = 0
    df.loc[ df['Opponent'].str.contains("*",regex=False), 'Conference'] = 1
 
-   results = df['Results'].values
+   if split_results == True:
+      results = df['Results'].values
 
-   print results
+      print results
 
-   if len(results) == 0:
-      return
+      if len(results) == 0:
+         return
 
-   if all(x=="" for x in results):
-      return
+      if all(x=="" for x in results):
+         return
 
-   UCSD_results = [int(x.split()[0]) if x != "" else "" for x in results]
-   Opp_results = [int(x.split()[2]) if x != "" else "" for x in results]
-   print UCSD_results
+      UCSD_results = [int(x.split()[0]) if x != "" else "" for x in results]
+      Opp_results = [int(x.split()[2]) if x != "" else "" for x in results]
+      print UCSD_results
 
-   df['UCSD Score'] = pd.Series(UCSD_results, index=df.index)
-   df['Opp Score'] = pd.Series(Opp_results, index=df.index)
+      df['UCSD Score'] = pd.Series(UCSD_results, index=df.index)
+      df['Opp Score'] = pd.Series(Opp_results, index=df.index)
 
-   df = df.drop(['Results'],axis=1)
+      df = df.drop(['Results'],axis=1)
 
    df.to_csv(sport_name + "_" + year + ".csv",index=False)

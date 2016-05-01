@@ -1,29 +1,33 @@
-Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Thu, Aug 23",Regis,4,-,San Bernardino,1.0,0,3,0
-"Fri, Aug 24",Seattle Pacific,4,20,San Bernardino,0.0,0,2,3
-"Sat, Aug 25",Southwest Minnesota State,4,25,San Bernardino,0.0,0,2,3
-"Sat, Aug 25",Ft. Lewis,4,-,San Bernardino,1.0,0,3,1
-"Thu, Aug 30",Chaminade,4,-,"Honolulu, HI",1.0,0,3,0
-"Fri, Aug 31",Northwest Nazarene,4,-,"Honolulu, HI",1.0,0,3,0
-"Fri, Aug 31",Hawai'i Pacific,4,-,"Honolulu, HI",1.0,0,3,0
-"Sat, Sep 01",BYU-Hawai'i,4,19,"Honolulu, HI",1.0,0,3,0
-"Fri, Sep 07",Cal State Dominguez Hills*,9,-,Carson,1.0,1,3,0
-"Sat, Sep 08",Cal State L.A.*,9,20,UC San Diego,0.0,1,1,3
-"Fri, Sep 14",Chico State*,16,22,Chico,0.0,1,1,3
-"Sat, Sep 15",Cal State Stanislaus*,16,-,Turlock,1.0,1,3,0
-"Fri, Sep 21",Cal State San Bernardino*,21,2,UC San Diego,0.0,1,0,3
-"Sat, Sep 22",Cal Poly Pomona*,21,-,UC San Diego,1.0,1,3,0
-"Sat, Sep 29",Humboldt State*,20,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 05",Cal State Monterey Bay*,21,-,Monterey,1.0,1,3,0
-"Sat, Oct 06",Sonoma State*,21,-,Sonoma,0.0,1,1,3
-"Wed, Oct 10",Cal State L.A.*,23,19,Los Angeles,1.0,1,3,2
-"Sat, Oct 13",Cal State Dominguez Hills*,23,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 19",Cal State Stanislaus*,20,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 20",Chico State*,20,19,UC San Diego,1.0,1,3,0
-"Fri, Oct 26",Cal Poly Pomona*,20,-,Pomona,0.0,1,2,3
-"Sat, Oct 27",Cal State San Bernardino*,20,2,San Bernardino,1.0,1,3,2
-"Fri, Nov 02",Humboldt State*,19,-,Arcata,1.0,1,3,2
-"Fri, Nov 09",Sonoma State*,20,-,UC San Diego,1.0,1,3,2
-"Sat, Nov 10",Cal State Monterey Bay*,20,-,UC San Diego,1.0,1,3,0
-"Thu, Nov 15",Northwest Nazarene,21,-,San Bernardino,1.0,0,3,2
-"Fri, Nov 16",Western Washington,21,24,San Bernardino,0.0,0,2,3
+Date,Opponent,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
+"Fri, Nov 02",UC Riverside (Exhibition),-,Riverside,1.0,0,67,61
+"Fri, Nov 09",Drake University (Exhibition),-,Moraga,0.0,0,63,81
+"Sat, Nov 17",San Diego State,-,San Diego,0.0,0,60,76
+"Sat, Nov 24",Grand Canyon,-,"Phoenix, Ariz.",0.0,0,62,72
+"Fri, Nov 30",Cal State Stanislaus *,-,UC San Diego,1.0,1,63,60
+"Sat, Dec 01",Chico State *,-,UC San Diego,1.0,1,65,55
+"Thu, Dec 06",Alaska-Fairbanks,-,UC San Diego,1.0,0,69,58
+"Sun, Dec 16",William Jewell College,-,UC San Diego,1.0,0,70,51
+"Tue, Dec 18",Wayne State,-,UC San Diego,1.0,0,73,59
+"Fri, Jan 04",Sonoma State *,-,Rohnert Park,1.0,1,58,54
+"Sat, Jan 05",Humboldt State *,-,Arcata,0.0,1,69,80
+"Fri, Jan 11",Cal State Dominguez Hills *,-,Carson,1.0,1,78,74
+"Sat, Jan 12",Cal State L.A. *,-,Los Angeles,0.0,1,102,111
+"Fri, Jan 18",Cal Poly Pomona *,-,UC San Diego,1.0,1,55,52
+"Sat, Jan 19",Cal State San Bernardino *,5,UC San Diego,1.0,1,76,65
+"Fri, Jan 25",San Francisco State *,-,UC San Diego,0.0,1,58,68
+"Sat, Jan 26",Cal State Monterey Bay *,-,UC San Diego,0.0,1,93,97
+"Tue, Jan 29",Grand Canyon,-,UC San Diego,1.0,0,62,52
+"Fri, Feb 01",Chico State *,-,Chico,1.0,1,62,49
+"Sat, Feb 02",Cal State Stanislaus *,-,Turlock,1.0,1,75,58
+"Fri, Feb 08",Humboldt State *,-,UC San Diego,1.0,1,84,72
+"Sat, Feb 09",Sonoma State *,-,UC San Diego,1.0,1,82,61
+"Fri, Feb 15",Cal State L.A. *,-,UC San Diego,1.0,1,64,63
+"Sat, Feb 16",Cal State Dominguez Hills *,-,UC San Diego,0.0,1,46,61
+"Fri, Feb 22",Cal State San Bernardino *,20,San Bernardino,0.0,1,55,70
+"Sat, Feb 23",Cal Poly Pomona *,-,Pomona,0.0,1,76,78
+"Thu, Feb 28",Cal State Monterey Bay *,-,Monterey,0.0,1,66,84
+"Fri, Feb 29",San Francisco State *,-,San Francisco,0.0,1,64,73
+"Tue, Mar 04",Cal State San Bernardino,13,San Bernardino,1.0,0,63,59
+"Fri, Mar 07",San Francisco State,-,San Bernardino,1.0,0,72,65
+"Sat, Mar 08",Cal Poly Pomona,-,San Bernardino,1.0,0,64,56
+"Fri, Mar 14",Alaska Anchorage,11,"Anchorage, AK",0.0,0,60,80

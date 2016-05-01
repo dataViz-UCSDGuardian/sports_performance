@@ -1,28 +1,31 @@
 Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Thu, Aug 25",Point Loma,13,-,Carson,1.0,0,3,2
-"Thu, Aug 25",Bridgeport,13,-,Carson,1.0,0,3,0
-"Fri, Aug 26",Concordia (N.Y.),13,-,Carson,1.0,0,3,0
-"Tue, Aug 30",Point Loma,13,-,UC San Diego,1.0,0,3,2
-"Fri, Sep 02",St. Martins,13,-,San Bernardino,1.0,0,3,0
-"Fri, Sep 02",Hawaii Pacific,13,8,San Bernardino,0.0,0,0,3
-"Sat, Sep 03",Northwood,13,16,San Bernardino,1.0,0,3,0
-"Sat, Sep 03",Northwest Nazarene,13,-,San Bernardino,1.0,0,3,0
-"Thu, Sep 08",Grand Canyon,10,-,UC San Diego,1.0,0,3,1
-"Sat, Sep 10",Cal State San Bernardino*,10,2,San Bernardino,0.0,1,1,3
-"Fri, Sep 16",Cal State Monterey Bay*,12,-,UC San Diego,1.0,1,3,0
-"Sat, Sep 17",Sonoma State*,12,-,UC San Diego,1.0,1,3,0
-"Fri, Sep 23",Chico State*,11,-,Chico,1.0,1,3,1
-"Sat, Sep 24",Cal State Stanislaus*,11,-,Turlock,1.0,1,3,1
-"Fri, Sep 30",Cal State Dominguez Hills*,10,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 01",Cal Poly Pomona*,10,18,UC San Diego,0.0,1,1,3
-"Thu, Oct 06",Cal State L.A.*,13,16,Los Angeles,0.0,1,1,3
-"Fri, Oct 07",Cal State Bakersfield*,13,-,Bakersfield,1.0,1,3,2
-"Sat, Oct 15",Cal State San Bernardino*,16,11,UC San Diego,1.0,1,3,2
-"Fri, Oct 21",Sonoma State*,14,-,Sonoma,0.0,1,2,3
-"Sat, Oct 22",Cal State Monterey Bay*,14,-,Monterey,1.0,1,3,0
-"Fri, Oct 28",Cal State Stanislaus*,17,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 29",Chico State*,17,-,UC San Diego,1.0,1,3,1
-"Wed, Nov 02",Cal State Bakersfield*,17,22,UC San Diego,0.0,1,1,3
-"Fri, Nov 04",Cal State L.A.*,17,9,UC San Diego,0.0,1,2,3
-"Fri, Nov 11",Cal Poly Pomona*,18,9,Pomona,0.0,1,0,3
-"Sat, Nov 12",Cal State Dominguez Hills*,18,-,Carson,1.0,1,3,0
+"Fri, Nov 11",Biola (Exhibition),-,-,La Mirada,1.0,0,79,48
+"Sun, Nov 13",Arizona Venom AAU (Exhibition),-,-,UC San Diego,1.0,0,94,71
+"Wed, Nov 16",Alaska-Fairbanaks,-,-,UC San Diego,1.0,0,79,65
+"Fri, Nov 25",South Dakota,-,-,Irvine,0.0,0,60,61
+"Sat, Nov 26",Concordia,-,-,Irvine,1.0,0,65,36
+"Wed, Nov 30",Alaska-Fairbanaks,-,-,UC San Diego,1.0,0,69,58
+"Fri, Dec 02",Cal State Bakersfield*,-,-,Bakersfield,1.0,1,101,91
+"Sat, Dec 03",Cal State L.A.*,-,-,Los Angeles,0.0,1,70,80
+"Sat, Dec 10",Northwest Nazarene,-,-,UC San Diego,1.0,0,75,50
+"Tue, Dec 13",Grand Canyon,-,-,"Phoenix, Ariz.",1.0,0,75,66
+"Fri, Jan 06",Cal State Stanislaus*,-,-,UC San Diego,1.0,1,82,79
+"Sat, Jan 07",Chico State*,-,12,UC San Diego,1.0,1,79,77
+"Wed, Jan 11",Cal State San Bernardino*,-,-,San Bernardino,1.0,1,65,59
+"Sat, Jan 14",Cal State Monterey Bay*,-,-,Monterey,1.0,1,86,69
+"Fri, Jan 20",Cal State Dominguez Hills*,-,-,UC San Diego,1.0,1,67,52
+"Sat, Jan 21",Cal Poly Pomona*,-,-,UC San Diego,1.0,1,68,36
+"Fri, Jan 27",Sonoma State*,25,-,Rohnert Park,1.0,1,69,65
+"Sat, Jan 28",San Francisco State*,25,-,San Francisco,1.0,1,93,57
+"Fri, Feb 03",Cal State L.A.*,21,-,UC San Diego,1.0,1,80,62
+"Sat, Feb 04",Cal State Bakersfield*,21,13,UC San Diego,0.0,1,72,80
+"Fri, Feb 10",Chico State*,21,17,Chico,0.0,1,68,90
+"Sat, Feb 11",Cal State Stanislaus*,21,-,Turlock,1.0,1,89,58
+"Wed, Feb 15",Cal State San Bernardino*,24,-,UC San Diego,1.0,1,96,68
+"Fri, Feb 17",Cal State Monterey Bay*,24,-,UC San Diego,1.0,1,92,53
+"Sun, Feb 19",Grand Canyon,24,-,UC San Diego,1.0,0,92,70
+"Fri, Feb 24",Cal Poly Pomona*,24,-,Pomona,1.0,1,70,50
+"Sat, Feb 25",Cal State Dominguez Hills*,24,-,Carson,1.0,1,68,56
+"Fri, Mar 03",San Francisco State*,23,-,UC San Diego,1.0,1,94,55
+"Sat, Mar 04",Sonoma State*,23,-,UC San Diego,1.0,1,69,54
+"Fri, Mar 10",Seattle Pacific,-,-,"Bellingham, WA",0.0,0,57,62

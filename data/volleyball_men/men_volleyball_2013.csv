@@ -1,33 +1,29 @@
-Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Fri, Sep 06",Central Washington,22,24,San Bernardino,1.0,0,3,0
-"Fri, Sep 06",Regis,22,13,San Bernardino,1.0,0,3,0
-"Sat, Sep 07",Harding,22,RV,San Bernardino,1.0,0,3,0
-"Sat, Sep 07",Seattle Pacific,22,-,San Bernardino,1.0,0,3,0
-"Fri, Sep 13",California Baptist,13,-,UC San Diego,1.0,0,3,1
-"Fri, Sep 13",Point Loma,13,-,UC San Diego,1.0,0,3,0
-"Sat, Sep 14",Fresno Pacific,13,10,UC San Diego,1.0,0,3,1
-"Sat, Sep 14",Alaska Anchorage,13,-,UC San Diego,1.0,0,3,0
-"Fri, Sep 20",San Francisco State *,8,-,San Francisco,1.0,1,3,0
-"Sat, Sep 21",Sonoma State *,8,18,Rohnert Park,0.0,1,1,3
-"Wed, Sep 25",Cal State San Bernardino *,10,20,San Bernardino,0.0,1,1,3
-"Fri, Sep 27",Cal State Stanislaus *,10,-,Turlock,1.0,1,3,0
-"Sat, Sep 28",Chico State *,10,-,Chico,1.0,1,3,1
-"Thu, Oct 03",Cal Poly Pomona *,12,-,Pomona,1.0,1,3,2
-"Sat, Oct 05",Humboldt State *,12,-,Arcata,1.0,1,3,1
-"Fri, Oct 11",Cal State East Bay (Reis Cup) *,11,-,UC San Diego,1.0,1,3,1
-"Sat, Oct 12",Cal State Monterey Bay *,11,-,UC San Diego,1.0,1,3,2
-"Fri, Oct 18",Cal State Dominguez Hills *,10,-,Carson,1.0,1,3,1
-"Sat, Oct 19",Cal State L.A. *,10,-,UC San Diego,0.0,1,2,3
-"Fri, Oct 25",Sonoma State *,13,14,UC San Diego,1.0,1,3,1
-"Sat, Oct 26",San Francisco State *,13,-,UC San Diego,1.0,1,3,1
-"Fri, Nov 01",Chico State *,12,-,UC San Diego,1.0,1,3,1
-"Sat, Nov 02",Cal State Stanislaus *,12,-,UC San Diego,1.0,1,3,0
-"Fri, Nov 08",Humboldt State *,12,-,UC San Diego,1.0,1,3,0
-"Sat, Nov 09",Cal Poly Pomona *,12,-,UC San Diego,1.0,1,3,2
-"Fri, Nov 15",Cal State Monterey Bay *,12,-,Seaside,1.0,1,3,2
-"Sat, Nov 16",Cal State East Bay *,12,-,Hayward,1.0,1,3,1
-"Wed, Nov 20",Cal State San Bernardino *,12,14,UC San Diego,0.0,1,2,3
-"Fri, Nov 22",Cal State L.A. *,12,-,Los Angeles,0.0,1,1,3
-"Sat, Nov 23",Cal State Dominguez Hills *,12,-,UC San Diego,1.0,1,3,1
-"Thu, Dec 05",Dixie State (Quarterfinal),12,RV,San Bernardino (The Den),1.0,0,3,1
-"Fri, Dec 06",BYU-Hawaii (Semifinal),12,4,San Bernardino (The Den),0.0,0,0,3
+Date,Opponent,UCSD Rank,Opp Rank,Location,Results,Won,Conference
+"Fri, Jan 03",Pool Play,RV,-,Santa Barbara (UCSB Thunderdome),Recap (2-2) NOTES,,0
+"Sat, Jan 04",UC Santa Barbara,RV,8,Santa Barbara (UCSB Rob Gym),0 - 3 (L) STATS NOTES,0.0,0
+"Fri, Jan 10",USC *,RV,5,Los Angeles,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Jan 11",Pepperdine *,RV,6,Malibu,0 - 3 (L) STATS NOTES,0.0,1
+"Thu, Jan 16",California Baptist *,RV,-,Riverside,2 - 3 (L) STATS NOTES,0.0,1
+"Sat, Jan 18",BYU *,RV,8,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Jan 24",Hawai'i *,-,10,"Honolulu, HI",0 - 3 (L) STATS NOTES,0.0,1
+"Sun, Jan 26",Hawai'i *,-,10,"Honolulu, HI",0 - 3 (L) STATS NOTES,0.0,1
+"Thu, Jan 30",UCLA *,-,1,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Jan 31",UC Irvine *,-,8,Irvine,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Feb 07",Stanford *,-,7,Stanford,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Feb 08",Pacific *,-,-,Stockton,1 - 3 (L) STATS NOTES,0.0,1
+"Fri, Feb 14",USC *,-,5,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Feb 15",Pepperdine *,-,3,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Wed, Feb 19",Cal State Northridge *,-,15,Northridge,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Feb 21",Long Beach State *,-,6,Long Beach,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Feb 28",Grand Canyon,-,-,UC San Diego,3 - 2 (W) STATS NOTES,1.0,0
+"Sat, Mar 01",UC Santa Barbara *,-,6,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Mar 07",UC Santa Barbara *,-,7,Santa Barbara,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Mar 08",UCLA *,-,5,Los Angeles,0 - 3 (L) STATS NOTES,0.0,1
+"Thu, Mar 13",California Baptist *,-,-,UC San Diego,3 - 2 (W) STATS NOTES,1.0,1
+"Sat, Mar 15",BYU *,-,3,"Provo, UT",0 - 3 (L) STATS NOTES,0.0,1
+"Thu, Mar 27",Long Beach State *,-,4,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Mar 29",Cal State Northridge *,-,RV,UC San Diego,2 - 3 (L) STATS NOTES,0.0,1
+"Fri, Apr 04",UC Irvine *,-,7,UC San Diego,1 - 3 (L) STATS NOTES,0.0,1
+"Sat, Apr 05",UC Merced,-,-,UC San Diego,3 - 0 (W) STATS NOTES,1.0,0
+"Fri, Apr 11",Pacific *,-,-,UC San Diego,3 - 0 (W) STATS NOTES,1.0,1
+"Sat, Apr 12",Stanford *,-,4,UC San Diego,1 - 3 (L) STATS NOTES,0.0,1

@@ -1,32 +1,36 @@
 Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Fri, Aug 31",Western New Mexico,17,-,"Phoenix, AZ",1.0,0,3,2
-"Fri, Aug 31",Grand Canyon,17,-,"Phoenix, AZ",0.0,0,1,3
-"Sat, Sep 01",Metro State,17,13,"Phoenix, AZ",0.0,0,0,3
-"Sat, Sep 01",UC Colorado Springs,17,-,"Phoenix, AZ",1.0,0,3,0
-"Fri, Sep 07",Western Washington,25,18,Rohnert Park (Wolves' Den),1.0,0,3,2
-"Fri, Sep 07",Central Washington,25,RV,Rohnert Park (Wolves' Den),0.0,0,1,3
-"Sat, Sep 08",Seattle Pacific,25,RV,Rohnert Park (Recreation Center),1.0,0,3,0
-"Sat, Sep 08",Dominican,25,-,Rohnert Park (Recreation Center),1.0,0,3,0
-"Fri, Sep 14",Cal State Dominguez Hills *,RV,-,UC San Diego,0.0,1,0,3
-"Sat, Sep 15",Cal State L.A. *,RV,-,UC San Diego,1.0,1,3,1
-"Thu, Sep 20",Cal Poly Pomona *,RV,-,Pomona,1.0,1,3,1
-"Sat, Sep 22",Humboldt State *,RV,-,Arcata,1.0,1,3,0
-"Fri, Sep 28",Chico State *,RV,18,UC San Diego,1.0,1,3,1
-"Sat, Sep 29",Cal State Stanislaus *,RV,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 05",Sonoma State *,RV,22,Rohnert Park,1.0,1,3,2
-"Sat, Oct 06",San Francisco State *,RV,-,San Francisco,0.0,1,0,3
-"Wed, Oct 10",Cal State San Bernardino *,RV,RV,San Bernardino,0.0,1,2,3
-"Fri, Oct 12",Cal State Monterey Bay *,RV,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 13",Cal State East Bay *,RV,-,UC San Diego,1.0,1,3,1
-"Fri, Oct 19",Cal State L.A. *,25,-,Los Angeles,1.0,1,3,0
-"Sat, Oct 20",Cal State Dominguez Hills *,25,-,Carson,1.0,1,3,0
-"Fri, Oct 26",Humboldt State *,24,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 27",Cal Poly Pomona *,24,-,UC San Diego,1.0,1,3,1
-"Fri, Nov 02",Cal State Stanislaus *,24,-,Turlock,1.0,1,3,0
-"Sat, Nov 03",Chico State *,24,-,Chico,0.0,1,0,3
-"Wed, Nov 07",Cal State San Bernardino *,RV,25,UC San Diego,1.0,1,3,2
-"Fri, Nov 09",San Francisco State *,RV,-,UC San Diego,0.0,1,0,3
-"Sat, Nov 10",Sonoma State *,RV,RV,UC San Diego,0.0,1,1,3
-"Fri, Nov 16",Cal State East Bay *,RV,-,Hayward,0.0,1,1,3
-"Sat, Nov 17",Cal State Monterey Bay *,RV,-,Seaside,1.0,1,3,2
-"Thu, Nov 29",BYU-Hawaii,RV,T-5,"Laie, HI",0.0,0,1,3
+"Fri, Nov 09",Gannon,8,15,Anaheim,0.0,0,58,69
+"Sat, Nov 10",Grand Canyon,8,13,Anaheim,0.0,0,62,64
+"Sun, Nov 11",Simon Fraser,8,RV,Anaheim,0.0,0,58,61
+"Fri, Nov 16",Seattle Pacific,8,-,"Bellingham, WA",1.0,0,86,67
+"Sat, Nov 17",Western Washington,8,14,"Bellingham, WA",0.0,0,51,69
+"Fri, Nov 23",Cal State San Bernardino vs. Tampa,-,-,UC San Diego,,0,49,62
+"Fri, Nov 23",UCSD vs. Azusa Pacific,RV,-,UC San Diego,1.0,0,79,48
+"Sat, Nov 24",Azusa Pacific vs. Cal State San Bernardino,-,-,UC San Diego,,0,69,55
+"Sat, Nov 24",UCSD vs. Tampa,RV,-,UC San Diego,0.0,0,66,74
+"Fri, Nov 30",Cal State L.A. *,RV,RV,UC San Diego,1.0,1,70,49
+"Sat, Dec 01",Cal State Dominguez Hills *,RV,-,UC San Diego,1.0,1,74,66
+"Sun, Dec 16",Cal State San Bernardino *,-,-,San Bernardino,0.0,1,62,66
+"Sun, Dec 30",Cal State San Bernardino *,-,-,UC San Diego,1.0,1,57,34
+"Thu, Jan 03",Cal Poly Pomona *,-,-,Pomona,0.0,1,63,68
+"Sat, Jan 05",Humboldt State *,-,-,Arcata,1.0,1,71,54
+"Fri, Jan 11",Chico State *,-,9,UC San Diego,1.0,1,71,65
+"Sat, Jan 12",Cal State Stanislaus *,-,-,UC San Diego,1.0,1,87,60
+"Fri, Jan 18",Cal State Monterey Bay *,-,-,Seaside,0.0,1,48,57
+"Sat, Jan 19",Cal State East Bay *,-,-,Hayward,1.0,1,61,50
+"Fri, Jan 25",San Francisco State *,-,-,San Francisco,1.0,1,53,51
+"Sat, Jan 26",Sonoma State *,-,-,Rohnert Park,1.0,1,62,45
+"Fri, Feb 01",Cal State Dominguez Hills *,-,-,Carson,1.0,1,63,52
+"Sat, Feb 02",Cal State L.A. *,-,RV,Los Angeles,1.0,1,68,58
+"Fri, Feb 08",Humboldt State *,-,-,UC San Diego,1.0,1,78,66
+"Sat, Feb 09",Cal Poly Pomona *,-,-,UC San Diego,1.0,1,66,64
+"Fri, Feb 15",Cal State Stanislaus *,RV,-,Turlock,1.0,1,69,50
+"Sat, Feb 16",Chico State *,RV,11,Chico,1.0,1,67,65
+"Fri, Feb 22",Cal State East Bay *,RV,-,UC San Diego,0.0,1,44,59
+"Sat, Feb 23",Cal State Monterey Bay *,RV,RV,UC San Diego,1.0,1,56,44
+"Thu, Feb 28",Sonoma State *,-,-,UC San Diego,1.0,1,67,59
+"Fri, Mar 01",San Francisco State *,-,-,UC San Diego,0.0,1,50,53
+"Tue, Mar 05",Cal State San Bernardino (First Round),-,-,UC San Diego,1.0,0,55,46
+"Fri, Mar 08",Cal State Monterey Bay (Semifinal),-,RV,Ontario,1.0,0,67,51
+"Sat, Mar 09",Cal State L.A. (Final),-,-,Ontario,1.0,0,66,61
+"Sat, Mar 16",Grand Canyon (Regional Quarterfinal),RV,RV,"Bellingham, WA",0.0,0,57,68

@@ -1,30 +1,37 @@
 Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Thu, Aug 25",Point Loma Nazarene (exhibition),24,-,San Diego,,0,3,1
-"Thu, Sep 01",Hawaii Pacific,24,-,"Honolulu, Hawaii",1.0,0,3,1
-"Fri, Sep 02",Seattle Pacific,24,13,"Honolulu, Hawaii",1.0,0,3,0
-"Sat, Sep 03",Northwest Nazarene,24,-,"Honolulu, Hawai'i",1.0,0,3,1
-"Sat, Sep 03",Chaminade,24,-,"Honolulu, Hawai'i",1.0,0,3,0
-"Fri, Sep 09",Cal Poly Pomona *,15,-,UC San Diego,1.0,1,3,0
-"Sun, Sep 11",San Francisco State *,15,-,UC San Diego,1.0,1,3,0
-"Fri, Sep 16",Cal State Dominguez Hills *,12,-,Carson,1.0,1,3,0
-"Sat, Sep 17",Cal State L.A. *,12,-,Los Angeles,1.0,1,3,1
-"Fri, Sep 23",Cal State Stanislaus *,T-10,-,UC San Diego,1.0,1,3,0
-"Sat, Sep 24",Chico State *,T-10,-,UC San Diego,0.0,1,2,3
-"Fri, Sep 30",Humboldt State *,12,-,Arcata,1.0,1,3,0
-"Sat, Oct 01",Sonoma State *,12,-,Rohnert Park,0.0,1,1,3
-"Wed, Oct 05",Cal State San Bernardino *,16,3,UC San Diego,0.0,1,1,3
-"Fri, Oct 07",Cal State Monterey Bay *,16,-,Seaside,0.0,1,1,3
-"Sat, Oct 08",Cal State East Bay *,16,-,Hayward,1.0,1,3,2
-"Fri, Oct 14",San Francisco State *,18,-,San Francisco,1.0,1,3,2
-"Sat, Oct 15",Cal Poly Pomona *,18,-,Pomona,1.0,1,3,1
-"Fri, Oct 21",Cal State L.A. *,18,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 22",Cal State Dominguez Hills *,18,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 28",Chico State *,18,RV,Chico,1.0,1,3,1
-"Sat, Oct 29",Cal State Stanislaus *,18,-,Turlock,1.0,1,3,2
-"Fri, Nov 04",Sonoma State *,17,23,UC San Diego,1.0,1,3,0
-"Sat, Nov 05",Humboldt State *,17,-,UC San Diego,1.0,1,3,0
-"Wed, Nov 09",Cal State San Bernardino *,15,1,San Bernardino,0.0,1,0,3
-"Fri, Nov 11",Cal State East Bay *,15,-,UC San Diego,1.0,1,3,1
-"Sat, Nov 12",Cal State Monterey Bay *,15,-,UC San Diego,1.0,1,3,0
-"Thu, Nov 17",Grand Canyon,15,-,San Bernardino,1.0,0,3,0
-"Fri, Nov 18",Sonoma State,15,23,San Bernardino,0.0,0,1,3
+"Thu, Oct 27",Biola University (Exhibition),13,-,UC San Diego,1.0,0,67,43
+"Wed, Nov 02",Stanford (Exhibition),13,-,Palo Alto,0.0,0,56,106
+"Mon, Nov 07",San Diego State (Exhibition),13,-,San Diego,0.0,0,60,79
+"Fri, Nov 11",Seattle Pacific,13,-,San Francisco (San Francisco State),1.0,0,68,47
+"Sat, Nov 12",Western Washington,13,-,Hayward (Cal State East Bay),1.0,0,79,60
+"Fri, Nov 18",Hawaii Pacific,13,-,"Hilo, HI",1.0,0,82,65
+"Sat, Nov 19",Hawaii Hilo,13,-,"Hilo, HI",1.0,0,68,50
+"Fri, Nov 25",Cal State San Marcos,8,-,UC San Diego,1.0,0,85,55
+"Sat, Nov 26",Fort Lewis,8,4,UC San Diego,1.0,0,80,65
+"Fri, Dec 02",Cal State Dominguez Hills *,5,-,Carson,1.0,1,79,54
+"Sat, Dec 03",Cal State L.A. *,5,-,Los Angeles,1.0,1,92,69
+"Mon, Dec 12",Cal State San Bernardino *,5,-,UC San Diego,1.0,1,70,45
+"Mon, Dec 19",Cal State San Bernardino *,4,-,San Bernardino,1.0,1,78,68
+"Thu, Dec 29",San Francisco State *,4,-,UC San Diego,1.0,1,79,44
+"Fri, Dec 30",Cal Poly Pomona *,4,11,UC San Diego,1.0,1,78,64
+"Fri, Jan 06",Cal State Stanislaus *,3,-,Turlock,1.0,1,83,61
+"Sat, Jan 07",Chico State *,3,-,Chico,1.0,1,97,91
+"Fri, Jan 13",Cal State East Bay *,2,-,UC San Diego,1.0,1,84,73
+"Sat, Jan 14",Cal State Monterey Bay *,2,T-24,UC San Diego,1.0,1,91,63
+"Fri, Jan 20",Sonoma State *,1,-,UC San Diego,1.0,1,73,57
+"Sat, Jan 21",Humboldt State *,1,-,UC San Diego,1.0,1,74,49
+"Thu, Jan 26",Cal Poly Pomona *,1,22,Pomona,1.0,1,69,53
+"Sat, Jan 28",San Francisco State *,1,-,San Francisco,1.0,1,68,55
+"Fri, Feb 03",Cal State L.A. *,1,-,UC San Diego,1.0,1,78,63
+"Sat, Feb 04",Cal State Dominguez Hills *,1,-,UC San Diego,1.0,1,77,52
+"Fri, Feb 10",Chico State *,1,-,UC San Diego,1.0,1,93,76
+"Sat, Feb 11",Cal State Stanislaus *,1,-,UC San Diego,1.0,1,85,51
+"Fri, Feb 17",Cal State Monterey Bay *,1,-,Monterey,1.0,1,72,64
+"Sat, Feb 18",Cal State East Bay *,1,-,Hayward,1.0,1,75,57
+"Wed, Feb 22",Humboldt State *,1,-,Arcata,0.0,1,73,74
+"Fri, Feb 24",Sonoma State *,1,-,Rohnert Park,1.0,1,78,58
+"Tue, Feb 28",Sonoma State,1,-,UC San Diego,1.0,0,70,53
+"Fri, Mar 02",Cal State L.A.,1,-,UC San Diego,0.0,0,76,77
+"Fri, Mar 09",Chico State,4,-,UC San Diego,1.0,0,84,66
+"Sat, Mar 10",Western Washington,4,RV,UC San Diego,1.0,0,81,66
+"Mon, Mar 12",Alaska Anchorage,4,8,UC San Diego,0.0,0,63,68

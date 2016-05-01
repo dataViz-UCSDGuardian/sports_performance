@@ -1,34 +1,33 @@
 Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Wed, Aug 26",Cal Baptist (Ex.),13,-,UC San Diego,1.0,0,4,1
-"Fri, Aug 28",Winona State,13,-,"Marquette, MI",1.0,0,3,1
-"Fri, Aug 28",St. Cloud State,13,-,"Marquette, MI",1.0,0,3,0
-"Sat, Aug 29",Duluth,13,7,"Marquette, MI",1.0,0,3,2
-"Sat, Aug 29",Michigan Tech,13,-,"Marquette, MI",1.0,0,3,0
-"Fri, Sep 04",Saginaw Valley State,7,-,UC San Diego,1.0,0,3,0
-"Fri, Sep 04",Northern Michigan,7,-,UC San Diego,1.0,0,3,1
-"Sat, Sep 05",Mesa State,7,-,UC San Diego,1.0,0,3,1
-"Sat, Sep 05",Alaska-Anchorage,7,-,UC San Diego,1.0,0,3,0
-"Wed, Sep 09",Cal State East Bay *,4,-,Hayward,1.0,1,3,0
-"Fri, Sep 11",Cal State San Bernardino *,4,2,San Bernardino,0.0,1,1,3
-"Sat, Sep 12",Cal Poly Pomona *,4,-,Pomona,1.0,1,3,0
-"Fri, Sep 18",Cal State L.A. *,4,-,Los Angeles,1.0,1,3,2
-"Sat, Sep 19",Cal State Dominguez Hills *,4,-,UC San Diego,1.0,1,3,0
-"Fri, Sep 25",Chico State *,4,23,UC San Diego,1.0,1,3,1
-"Sat, Sep 26",Cal State Stanislaus *,4,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 02",Cal State Monterey Bay *,3,-,UC San Diego,1.0,1,3,1
-"Sat, Oct 03",San Francisco State *,3,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 09",Humboldt State *,3,-,Arcata,1.0,1,3,0
-"Sat, Oct 10",Sonoma State *,3,17,Sonoma,1.0,1,3,2
-"Fri, Oct 16",Cal Poly Pomona *,3,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 17",Cal State San Bernardino *,3,2,UC San Diego,1.0,1,3,1
-"Thu, Oct 22",Cal State Dominguez Hills *,2,-,Carson,1.0,1,3,0
-"Fri, Oct 23",Cal State L.A. *,2,22,UC San Diego,1.0,1,3,1
-"Fri, Oct 30",Cal State Stanislaus *,2,-,Turlock,1.0,1,3,0
-"Sat, Oct 31",Chico State *,2,25,Chico,1.0,1,3,0
-"Wed, Nov 04",Cal State East Bay *,2,-,UC San Diego,1.0,1,3,0
-"Fri, Nov 06",San Francisco State *,2,-,San Francisco,0.0,1,1,3
-"Sat, Nov 07",Cal State Monterey Bay *,2,-,Monterey,1.0,1,3,0
-"Fri, Nov 13",Sonoma State *,4,18,UC San Diego,1.0,1,3,0
-"Sat, Nov 14",Humboldt State *,4,-,UC San Diego,1.0,1,3,0
-"Thu, Nov 19",San Francisco State,3,-,San Bernardino,1.0,0,3,0
-"Fri, Nov 20",Cal State L.A.,3,19,San Bernardino,0.0,0,0,3
+"Sun, Nov 08",Stanford (Ex.),14,-,Palo Alto,0.0,0,55,107
+"Sat, Nov 14",University of San Diego (Ex.),14,-,San Diego,0.0,0,69,88
+"Sat, Nov 21",Grand Canyon,14,-,"Phoenix, AZ",1.0,0,71,70
+"Fri, Dec 04",Cal State San Bernardino *,13,-,San Bernardino,1.0,1,69,55
+"Sat, Dec 05",Cal Poly Pomona *,13,-,Pomona,1.0,1,48,43
+"Tue, Dec 15",Cal State East Bay *,14,-,Hayward,1.0,1,78,61
+"Fri, Dec 18",Biola,14,-,UC San Diego,1.0,0,76,55
+"Sat, Dec 19",University of Alaska,14,-,UC San Diego,1.0,0,87,41
+"Mon, Dec 28",Seattle Pacific,14,20,UC San Diego,1.0,0,82,80
+"Tue, Dec 29",Western Washington,14,-,UC San Diego,1.0,0,89,82
+"Sat, Jan 02",Cal State L.A. *,14,-,Los Angeles,1.0,1,65,61
+"Sun, Jan 03",Cal State Dominguez Hills *,14,-,Carson,1.0,1,69,64
+"Thu, Jan 07",Chico State *,9,-,UC San Diego,1.0,1,75,62
+"Sat, Jan 09",Cal State Stanislaus *,9,-,UC San Diego,1.0,1,72,38
+"Thu, Jan 14",Cal State Monterey Bay *,7,-,UC San Diego,1.0,1,68,63
+"Sat, Jan 16",San Francisco State *,7,-,UC San Diego,1.0,1,74,61
+"Thu, Jan 21",Humboldt State *,7,-,Arcata,0.0,1,80,84
+"Sat, Jan 23",Sonoma State *,7,-,Sonoma,1.0,1,68,52
+"Thu, Jan 28",Cal Poly Pomona *,10,-,UC San Diego,1.0,1,71,69
+"Sat, Jan 30",Cal State San Bernardino *,10,-,UC San Diego,1.0,1,58,41
+"Thu, Feb 04",Cal State Dominguez Hills *,8,-,UC San Diego,1.0,1,83,57
+"Sat, Feb 06",Cal State L.A. *,8,-,UC San Diego,1.0,1,75,43
+"Fri, Feb 12",Cal State Stanislaus *,7,-,Turlock,1.0,1,83,60
+"Sat, Feb 13",Chico State *,7,-,Chico,0.0,1,67,77
+"Tue, Feb 16",Cal State East Bay *,11,-,UC San Diego,1.0,1,96,73
+"Fri, Feb 19",San Francisco State *,11,-,San Francisco,1.0,1,58,50
+"Sat, Feb 20",Cal State Monterey Bay *,11,-,Monterey,0.0,1,57,68
+"Wed, Feb 24",Sonoma State *,14,-,UC San Diego,1.0,1,68,52
+"Fri, Feb 26",Humboldt State *,14,-,UC San Diego,1.0,1,86,51
+"Tue, Mar 02",Cal State Dominguez Hills,12,-,UC San Diego,1.0,0,73,48
+"Fri, Mar 05",Humboldt State,12,-,Arcata,0.0,0,78,82
+"Fri, Mar 12",Humboldt State,12,-,"Seattle, WA",0.0,0,72,76

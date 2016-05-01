@@ -1,33 +1,54 @@
-Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Fri, Sep 06",Central Washington,22,24,San Bernardino,1.0,0,3,0
-"Fri, Sep 06",Regis,22,13,San Bernardino,1.0,0,3,0
-"Sat, Sep 07",Harding,22,RV,San Bernardino,1.0,0,3,0
-"Sat, Sep 07",Seattle Pacific,22,-,San Bernardino,1.0,0,3,0
-"Fri, Sep 13",California Baptist,13,-,UC San Diego,1.0,0,3,1
-"Fri, Sep 13",Point Loma,13,-,UC San Diego,1.0,0,3,0
-"Sat, Sep 14",Fresno Pacific,13,10,UC San Diego,1.0,0,3,1
-"Sat, Sep 14",Alaska Anchorage,13,-,UC San Diego,1.0,0,3,0
-"Fri, Sep 20",San Francisco State *,8,-,San Francisco,1.0,1,3,0
-"Sat, Sep 21",Sonoma State *,8,18,Rohnert Park,0.0,1,1,3
-"Wed, Sep 25",Cal State San Bernardino *,10,20,San Bernardino,0.0,1,1,3
-"Fri, Sep 27",Cal State Stanislaus *,10,-,Turlock,1.0,1,3,0
-"Sat, Sep 28",Chico State *,10,-,Chico,1.0,1,3,1
-"Thu, Oct 03",Cal Poly Pomona *,12,-,Pomona,1.0,1,3,2
-"Sat, Oct 05",Humboldt State *,12,-,Arcata,1.0,1,3,1
-"Fri, Oct 11",Cal State East Bay (Reis Cup) *,11,-,UC San Diego,1.0,1,3,1
-"Sat, Oct 12",Cal State Monterey Bay *,11,-,UC San Diego,1.0,1,3,2
-"Fri, Oct 18",Cal State Dominguez Hills *,10,-,Carson,1.0,1,3,1
-"Sat, Oct 19",Cal State L.A. *,10,-,UC San Diego,0.0,1,2,3
-"Fri, Oct 25",Sonoma State *,13,14,UC San Diego,1.0,1,3,1
-"Sat, Oct 26",San Francisco State *,13,-,UC San Diego,1.0,1,3,1
-"Fri, Nov 01",Chico State *,12,-,UC San Diego,1.0,1,3,1
-"Sat, Nov 02",Cal State Stanislaus *,12,-,UC San Diego,1.0,1,3,0
-"Fri, Nov 08",Humboldt State *,12,-,UC San Diego,1.0,1,3,0
-"Sat, Nov 09",Cal Poly Pomona *,12,-,UC San Diego,1.0,1,3,2
-"Fri, Nov 15",Cal State Monterey Bay *,12,-,Seaside,1.0,1,3,2
-"Sat, Nov 16",Cal State East Bay *,12,-,Hayward,1.0,1,3,1
-"Wed, Nov 20",Cal State San Bernardino *,12,14,UC San Diego,0.0,1,2,3
-"Fri, Nov 22",Cal State L.A. *,12,-,Los Angeles,0.0,1,1,3
-"Sat, Nov 23",Cal State Dominguez Hills *,12,-,UC San Diego,1.0,1,3,1
-"Thu, Dec 05",Dixie State (Quarterfinal),12,RV,San Bernardino (The Den),1.0,0,3,1
-"Fri, Dec 06",BYU-Hawaii (Semifinal),12,4,San Bernardino (The Den),0.0,0,0,3
+Date,Opponent,UCSD Rank,Opp Rank,Location,Results,Won,Conference
+"Mon, Jan 20",Concordia (Exhibition),-,-,UC San Diego,3 - 4 NOTES,,0
+"Sat, Feb 01",Western Oregon,21,-,UC San Diego,4 - 3 (W) STATS NOTES,1.0,0
+"Sat, Feb 01",Western Oregon,21,-,UC San Diego,11 - 3 (W) (6 inn.) STATS NOTES,1.0,0
+"Sun, Feb 02",Western Oregon,21,-,UC San Diego,6 - 2 (W) STATS NOTES,1.0,0
+"Sun, Feb 02",Western Oregon,21,-,UC San Diego,9 - 5 (W) STATS NOTES,1.0,0
+"Wed, Feb 05",California Baptist,21,-,UC San Diego,2 - 1 (W) STATS NOTES,1.0,0
+"Wed, Feb 05",California Baptist,21,-,UC San Diego,4 - 7 (L) STATS NOTES,0.0,0
+"Fri, Feb 14",Chico State *,21,-,UC San Diego,2 - 0 (W) STATS NOTES,1.0,1
+"Fri, Feb 14",Chico State *,21,-,UC San Diego,1 - 2 (L) STATS NOTES,0.0,1
+"Sat, Feb 15",Chico State *,21,-,UC San Diego,4 - 0 (W) STATS NOTES,1.0,1
+"Sat, Feb 15",Chico State *,21,-,UC San Diego,10 - 4 (W) STATS NOTES,1.0,1
+"Fri, Feb 21",Cal State East Bay *,13,-,UC San Diego,4 - 0 (W) STATS NOTES,1.0,1
+"Fri, Feb 21",Cal State East Bay *,13,-,UC San Diego,12 - 9 (W) STATS NOTES,1.0,1
+"Sat, Feb 22",Cal State East Bay *,13,-,UC San Diego,17 - 1 (W) (5 inn.) STATS NOTES,1.0,1
+"Sat, Feb 22",Cal State East Bay *,13,-,UC San Diego,8 - 3 (W) STATS NOTES,1.0,1
+"Fri, Mar 07",Sonoma State *,11,-,Rohnert Park,3 - 1 (W) STATS NOTES,1.0,1
+"Fri, Mar 07",Sonoma State *,11,-,Rohnert Park,1 - 6 (L) STATS NOTES,0.0,1
+"Sat, Mar 08",Sonoma State *,11,-,Rohnert Park,4 - 7 (L) STATS NOTES,0.0,1
+"Sat, Mar 08",Sonoma State *,11,-,Rohnert Park,4 - 1 (W) STATS NOTES,1.0,1
+"Fri, Mar 14",Cal State San Bernardino *,20,-,San Bernardino,8 - 3 (W) STATS NOTES,1.0,1
+"Fri, Mar 14",Cal State San Bernardino *,20,-,San Bernardino,15 - 10 (W) STATS NOTES,1.0,1
+"Sat, Mar 15",Cal State San Bernardino *,20,-,San Bernardino,2 - 1 (W) STATS NOTES,1.0,1
+"Sat, Mar 15",Cal State San Bernardino *,20,-,San Bernardino,13 - 4 (W) STATS NOTES,1.0,1
+"Tue, Mar 25",Hawaii Hilo,19,-,UC San Diego,1 - 6 (L) STATS NOTES,0.0,0
+"Tue, Mar 25",Hawaii HIlo,19,-,UC San Diego,2 - 7 (L) STATS NOTES,0.0,0
+"Fri, Mar 28",Cal State Stanislaus *,19,-,UC San Diego,10 - 1 (W) (5 inn.) STATS NOTES,1.0,1
+"Fri, Mar 28",Cal State Stanislaus *,19,-,UC San Diego,8 - 0 (W) (6 inn.) STATS NOTES,1.0,1
+"Sat, Mar 29",Cal State Stanislaus *,19,-,UC San Diego,9 - 1 (W) (6 inn.) STATS NOTES,1.0,1
+"Sat, Mar 29",Cal State Stanislaus *,19,-,UC San Diego,5 - 1 (W) STATS NOTES,1.0,1
+"Fri, Apr 04",Chaminade,20,-,Turlock,9 - 5 (W) STATS NOTES,1.0,0
+"Fri, Apr 04",Dominican,20,-,Turlock,4 - 5 (L) STATS NOTES,0.0,0
+"Fri, Apr 04",California Baptist,20,2,Turlock,4 - 1 (W) STATS NOTES,1.0,0
+"Sat, Apr 05",Hawaii Pacific,20,-,Turlock,3 - 0 (W) STATS NOTES,1.0,0
+"Sat, Apr 05",Notre Dame de Namur,20,-,Turlock,7 - 4 (W) STATS NOTES,1.0,0
+"Sun, Apr 06",Montana State Billings,20,-,Turlock,1 - 0 (W) STATS NOTES,1.0,0
+"Sun, Apr 06",Cal State East Bay,20,-,Turlock,8 - 5 (W) STATS NOTES,1.0,0
+"Fri, Apr 11",San Francisco State *,15,-,San Francisco,0 - 1 (L) STATS NOTES,0.0,1
+"Fri, Apr 11",San Francisco State *,15,-,San Francisco,3 - 1 (W) STATS NOTES,1.0,1
+"Sat, Apr 12",San Francisco State *,15,-,San Francisco,8 - 2 (W) STATS NOTES,1.0,1
+"Sat, Apr 12",San Francisco State *,15,-,San Francisco,1 - 2 (L) (13 inn.) STATS NOTES,0.0,1
+"Fri, Apr 18",Humboldt State *,15,8,Arcata,2 - 9 (L) STATS NOTES,0.0,1
+"Fri, Apr 18",Humboldt State *,15,8,Arcata,3 - 6 (L) STATS NOTES,0.0,1
+"Sat, Apr 19",Humboldt State *,15,8,Arcata,0 - 2 (L) STATS NOTES,0.0,1
+"Sat, Apr 19",Humboldt State *,15,8,Arcata,5 - 6 (L) (13 inn.) STATS NOTES,0.0,1
+"Fri, Apr 25",Cal State Dominguez Hills *,RV,-,UC San Diego,3 - 2 (W) STATS NOTES,1.0,1
+"Fri, Apr 25",Cal State Dominguez Hills *,RV,-,UC San Diego,4 - 0 (W) STATS NOTES,1.0,1
+"Sat, Apr 26",Cal State Dominguez Hills *,RV,-,UC San Diego,2 - 3 (L) STATS NOTES,0.0,1
+"Sat, Apr 26",Cal State Dominguez Hills *,RV,-,UC San Diego,2 - 0 (W) STATS NOTES,1.0,1
+"Fri, May 02",Humboldt State,RV,6,Stockton,1 - 2 (L) STATS NOTES,0.0,0
+"Sat, May 03",Cal State Monterey Bay,RV,3,Stockton,8 - 10 (L) STATS NOTES,0.0,0
+"Fri, May 09",Humboldt State,RV,4,"St. George, UT",10 - 6 (W) (8 inn.) STATS NOTES,1.0,0
+"Sat, May 10",Dixie State,RV,15,"St. George, UT",3 - 5 (L) STATS NOTES,0.0,0
+"Sat, May 10",Central Washington,RV,RV,"St. George, UT",1 - 10 (L) STATS NOTES,0.0,0

@@ -1,27 +1,29 @@
-Date,Opponent,UCSD Rank,Opp Rank,Location,Won,Conference,UCSD Score,Opp Score
-"Thu, Sep 04",Hawaii Pacific,11,-,"Ellensburg, WA",1.0,0,3,2
-"Thu, Sep 04",Central Washington,11,RV,"Ellensburg, WA",0.0,0,1,3
-"Fri, Sep 05",Saint Martin's,11,-,"Ellensburg, WA",1.0,0,3,0
-"Fri, Sep 05",Western Washington,11,12,"Ellensburg, WA",0.0,0,1,3
-"Fri, Sep 12",Cal State Stanislaus *,14,-,UC San Diego,1.0,1,3,1
-"Sat, Sep 13",Chico State *,14,-,UC San Diego,1.0,1,3,1
-"Wed, Sep 17",Cal Poly Pomona *,13,-,UC San Diego,1.0,1,3,2
-"Fri, Sep 19",Cal State L.A. *,13,RV,UC San Diego,0.0,1,1,3
-"Sat, Sep 20",Cal State Dominguez Hills *,13,-,UC San Diego,1.0,1,3,1
-"Fri, Sep 26",Sonoma State *,19,RV,Rohnert Park,0.0,1,1,3
-"Sat, Sep 27",San Francisco State *,19,-,San Francisco,1.0,1,3,1
-"Thu, Oct 02",Humboldt State *,RV,-,Arcata,1.0,1,3,2
-"Sat, Oct 04",Cal State San Bernardino *,RV,8,San Bernardino,0.0,1,2,3
-"Fri, Oct 10",Cal State Monterey Bay (Reis Cup) *,RV,-,UC San Diego,1.0,1,3,0
-"Sat, Oct 11",Cal State East Bay *,RV,-,UC San Diego,1.0,1,3,0
-"Fri, Oct 17",Chico State *,RV,-,Chico,0.0,1,1,3
-"Sat, Oct 18",Cal State Stanislaus *,RV,-,Turlock,1.0,1,3,0
-"Fri, Oct 24",Cal State Dominguez Hills *,RV,-,Carson,1.0,1,3,0
-"Sat, Oct 25",Cal State L.A. *,RV,-,Los Angeles,0.0,1,1,3
-"Fri, Oct 31",San Francisco State *,RV,-,UC San Diego,0.0,1,2,3
-"Sat, Nov 01",Sonoma State *,RV,RV,UC San Diego,0.0,1,0,3
-"Wed, Nov 05",Cal Poly Pomona *,-,-,Pomona,0.0,1,1,3
-"Fri, Nov 07",Cal State San Bernardino *,-,18,UC San Diego,0.0,1,1,3
-"Sat, Nov 08",Humboldt State *,-,-,UC San Diego,1.0,1,3,1
-"Fri, Nov 14",Cal State East Bay *,-,-,Hayward,0.0,1,1,3
-"Sat, Nov 15",Cal State Monterey Bay *,-,-,Seaside,1.0,1,3,0
+Date,Opponent,Opp Rank,Location,Results,Won,Conference
+"Wed, Jan 07",Concordia,-,Irvine,1 - 3 (L) STATS NOTES,0.0,0
+"Sat, Jan 10",Grand Canyon,-,"Phoenix, AZ",3 - 2 (W) STATS NOTES,1.0,0
+"Wed, Jan 14",Long Beach State *,11,Long Beach,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Jan 16",CSUN *,15,Northridge,0 - 3 (L) STATS NOTES,0.0,1
+"Thu, Jan 22",USC *,5,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Jan 23",California Baptist *,-,Riverside,0 - 3 (L) STATS NOTES,0.0,1
+"Wed, Jan 28",Princeton,RV,UC San Diego,0 - 3 (L) STATS NOTES,0.0,0
+"Fri, Jan 30",BYU *,7,"Provo, UT",0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Jan 31",BYU *,7,"Provo, UT",0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Feb 06",Concordia,-,UC San Diego,0 - 3 (L) STATS NOTES,0.0,0
+"Sat, Feb 07",UC Irvine *,5,UC San Diego,1 - 3 (L) STATS NOTES,0.0,1
+"Fri, Feb 13",Pepperdine *,4,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Feb 14",Stanford *,RV,UC San Diego,1 - 3 (L) STATS NOTES,0.0,1
+"Fri, Feb 20",Pepperdine *,6,Malibu,0 - 3 (L) STATS NOTES,0.0,1
+"Wed, Feb 25",Holy Names,-,UC San Diego,3 - 0 (W) STATS NOTES,1.0,0
+"Fri, Feb 27",UC Santa Barbara *,8,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Feb 28",UCLA *,9,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Wed, Mar 04",USC *,7,Los Angeles,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Mar 06",California Baptist *,-,UC San Diego,1 - 3 (L) STATS NOTES,0.0,1
+"Sat, Mar 07",Ball State,12,UC San Diego,0 - 3 (L) STATS NOTES,0.0,0
+"Fri, Mar 13",Stanford *,13,Stanford,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Mar 27",Hawai'i *,1,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Mar 28",Hawai'i *,1,UC San Diego,1 - 3 (L) STATS NOTES,0.0,1
+"Fri, Apr 03",CSUN *,13,UC San Diego,1 - 3 (L) STATS NOTES,0.0,1
+"Sat, Apr 04",Long Beach State *,10,UC San Diego,0 - 3 (L) STATS NOTES,0.0,1
+"Fri, Apr 10",UC Santa Barbara *,9,Santa Barbara,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Apr 11",UCLA *,12,Los Angeles,0 - 3 (L) STATS NOTES,0.0,1
+"Sat, Apr 18",UC Irvine *,4,Irvine,0 - 3 (L) STATS NOTES,0.0,1
