@@ -40,6 +40,7 @@ def page_scrape(sport_name, base_url, year, split_results=True):
    soup = BeautifulSoup(page)
 
    schedule_table = soup.find("table", "ScheduleTable")
+
    raw_header = [x.getText() for x in schedule_table.findAll("tr")[0].findAll('th')]
 
    header = [' '.join(x.split()) for x in raw_header]
