@@ -63,7 +63,7 @@ ax2 = ax1.twinx()
 s2 = summary['Set Diff Avg'].values
 
 ax2.plot(t, s2, 'r-',linewidth=2.5)
-ax2.set_ylabel('avg # of sets matches were won/lost by', color='r')
+ax2.set_ylabel('average difference between # of sets won and sets lost', color='r')
 for tl in ax2.get_yticklabels():
     tl.set_color('r')
 
