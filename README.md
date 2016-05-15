@@ -1,8 +1,10 @@
 # sports_performance
 
 #####This is a series of 7 visualizations for the UCSD Guardian paper on the ranking of 7 UCSD sports team for the years from 2005 to 2015. 
-####Data Source: 
-#####Notes- Use the drop down menu to access other years. Only CCAA tournament games were considered (indicated with a star). 
+#####Data Source: 
+######Notes on the Data: 
+###### * Use the drop down menu to access other years. 
+###### * Only CCAA tournament games were considered (indicated with a star). 
 * Men's Basketball: http://www.ucsdtritons.com/SportSelect.dbml?&DB_OEM_ID=5800&SPID=2337&SPSID=29886
 * Women's Basketball: http://www.ucsdtritons.com/SportSelect.dbml?&DB_OEM_ID=5800&SPID=2338&SPSID=29896
 * Men's Soccer: http://www.ucsdtritons.com/SportSelect.dbml?&DB_OEM_ID=5800&SPID=2328&SPSID=29740
