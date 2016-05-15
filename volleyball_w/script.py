@@ -42,7 +42,7 @@ fig, ax1 = plt.subplots()
 t = np.arange(2005, 2016, 1)
 s1 = summary['Percent Won'].values
 
-ax1.plot(t, s1, 'b-')
+ax1.plot(t, s1, 'b-',linewidth=2.5)
 ax1.set_xlabel('year')
 
 # Make the y-axis label and tick labels match the line color.
@@ -51,10 +51,8 @@ for tl in ax1.get_yticklabels():
     tl.set_color('b')
 
 years = [int(x) for x in years]
-print(years)
     
 x = range(0,len(years))
-
 ps = range(0,110,10)
 
 axes = plt.gca()
@@ -64,8 +62,8 @@ plt.yticks(ps)
 ax2 = ax1.twinx()
 s2 = summary['Set Diff Avg'].values
 
-ax2.plot(t, s2, 'r-')
-ax2.set_ylabel('average difference in sets won', color='r')
+ax2.plot(t, s2, 'r-',linewidth=2.5)
+ax2.set_ylabel('avg # of sets matches were won by', color='r')
 for tl in ax2.get_yticklabels():
     tl.set_color('r')
 
