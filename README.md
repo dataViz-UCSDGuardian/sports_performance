@@ -13,7 +13,10 @@
 * Women's Baseball: http://www.ucsdtritons.com/SportSelect.dbml?DB_OEM_ID=5800&SPID=2342&SPSID=29937&DB_OEM_ID=5800
 * Women's Volleyball: http://www.ucsdtritons.com/SportSelect.dbml?DB_OEM_ID=5800&SPID=2334&SPSID=31944&DB_OEM_ID=5800
 
-####Process
-1. Data was taken from the UCSD sports website, and only CCAA games were included. 
-2. 
-1.
+#####Process
+1. Data was found on the UCSD sport website under the schedule tab for each team. 
+1. Data was scrapped from the site using beautiful soup library. Scrapper information is found under data_scraper folder
+1. Four members of the team each took a sport, and worked on making the visualizations individually. Different metrics were used for different teams. 
+1. Final product can be found on the website here: 
+
+
