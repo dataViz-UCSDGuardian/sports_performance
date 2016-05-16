@@ -1,6 +1,6 @@
 # sports_performance
 
-###This is a series of 7 visualizations for the UCSD Guardian paper on the ranking of 7 UCSD sports team for the years from 2005 to 2015. 
+###This is a series of 7 visualizations for the UCSD Guardian paper on the ranking of 7 UCSD sports team for 2005 to 2015. 
 #####Data Source: 
 ######Notes on the Data: 
 ###### * Use the drop down menu to access other years. 
@@ -16,7 +16,7 @@
 #####Process:
 1. Data was found on the UCSD sport website under the schedule tab for each team. 
 1. Data was scrapped from the site using beautiful soup library. Scrapper information is found under data_scraper folder
-1. Four members of the team each took a sport, and worked on making the visualizations individually. Different metrics were used for different teams. 
+1. Four members of the team each took a sport, and worked on making the visualizations individually. Each team has it's own folder in this repo. Different metrics were used for different teams. 
 1. Final product can be found on the website here: 
 
 
